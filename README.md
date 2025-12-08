@@ -1,91 +1,91 @@
-# Automotive-Insights-Dashboard
-Tableau dashboard analyzing fuel efficiency, MPG, body style popularity, and pricing trends.
 Automotive Insights Dashboard
 
-A Tableau dashboard analyzing vehicle performance, fuel efficiency, body style popularity, and pricing trends to help identify standout manufacturers and market insights.
+A Tableau dashboard analyzing fuel efficiency, MPG performance, body style popularity, and pricing trends across multiple automotive manufacturers.
 
 📊 Executive Summary
 
-This dashboard provides a consolidated view of key automotive insights across fuel efficiency, combined MPG performance, body style popularity, and the industry’s highest-priced vehicles. Toyota demonstrates exceptional fuel efficiency and strong combined MPG performance, while Nissan and Mazda also show competitive efficiency levels.
+This dashboard provides a consolidated view of key automotive insights across refined fuel efficiency, combined MPG performance, body style popularity, and the highest-priced vehicles in the dataset.
 
-Body style analysis reveals that sedans and hatchbacks dominate the market, far surpassing less common body types such as wagons, hardtops, and convertibles. Pricing analysis highlights Mercedes-Benz and BMW as clear leaders in the luxury segment, significantly exceeding pricing levels of most manufacturers.
+Toyota demonstrates exceptional refined fuel efficiency and strong combined MPG performance.
 
-Together, these insights help compare manufacturer strengths, highlight consumer trends, and identify standout performers across major automotive categories.
+Nissan and Mazda also show competitive efficiency levels.
+
+Sedans and hatchbacks dominate the market, outperforming body types such as wagons, hardtops, and convertibles.
+
+Mercedes-Benz and BMW clearly lead luxury pricing, significantly exceeding the pricing levels of most manufacturers.
+
+These insights help compare manufacturer strengths, highlight consumer trends, and identify standout performers across major automotive categories.
 
 📈 Dashboard Overview
-
-The Tableau dashboard includes four visual components:
-
 1. Refined Fuel Efficiency
 
-Calculates adjusted fuel efficiency scores ("Value Score")
+Uses a calculated “Value Score” for adjusted MPG efficiency
 
-Identifies top manufacturers with the most efficient vehicles
+Identifies top manufacturers for efficiency
 
-Toyota leads with the highest refined efficiency score
+Toyota leads with the highest refined score
 
-2. Raw MPG — Combined
+2. Raw MPG – Combined
 
-Shows raw combined MPG values
+Displays raw combined MPG values
 
-Highlights manufacturers producing the most fuel-efficient vehicles
+Highlights brands producing the most fuel-efficient vehicles
 
-Toyota again outperforms with the highest combined MPG
+Toyota again outperforms competitors
 
 3. Body Style Popularity
 
-Bar chart showing distribution of vehicle body types
+Shows distribution of vehicle body types
 
-Sedans and hatchbacks dominate the dataset
+Sedans and hatchbacks dominate
 
-Useful for identifying consumer preferences and market focus areas
+Useful for analyzing consumer preference patterns
 
 4. Most Expensive Cars
 
-Displays highest-priced vehicles by manufacturer
+Ranks manufacturers by highest-priced vehicles
 
-Mercedes-Benz and BMW stand out with significantly higher luxury pricing
+Mercedes-Benz and BMW dominate the premium segment
 
 🔧 Tools & Technologies Used
 
-Tableau Public – Data visualization & dashboard creation
+Tableau Public – Visualization & dashboard creation
 
-Google Sheets / CSV Dataset – Source data
+CSV Dataset / Google Sheets – Source data
 
-Data Cleaning – Filtering, calculated fields, refining MPG scores
+Data Cleaning – Filtering, calculated fields, refined efficiency score
 
-Design Elements – Layout containers, padding, headers, custom color palettes
+Dashboard Design – Layout containers, spacing, headers, color palettes
 
 📁 Repository Structure
 Automotive-Insights-Dashboard/
 │
 ├── README.md                → Project documentation
-├── automotive_insights.twbx → Tableau packaged workbook (if uploaded)
+├── automotive_insights.twbx → Tableau packaged workbook (optional)
 └── /screenshots             → Dashboard images (optional)
 
 🌐 Live Dashboard (Tableau Public)
 
-You can view the published dashboard here:
-
-🔗 https://public.tableau.com/app/profile/lechra.lewis/viz/Automotive_Insights_Dashboard/Dashboard1
+👉 View the published dashboard here:
+https://public.tableau.com/app/profile/lechra.lewis/viz/Automotive_Insights_Dashboard/Dashboard1
 
 🎯 Key Insights
 
 Toyota is the strongest performer across both refined and raw efficiency metrics.
 
-Sedans and hatchbacks dominate the dataset, reflecting high consumer demand.
+Sedans and hatchbacks dominate the body style distribution.
 
 Luxury pricing is concentrated among a few premium manufacturers.
 
-Combined, these insights provide a clear view of both performance and market positioning.
+Combined, these trends illustrate both performance strengths and market positioning.
 
 📥 How to Use This Project
 
-Open the Tableau workbook (.twbx) if included
+Download or open the Tableau workbook (.twbx)
 
-Explore each sheet individually
+Explore each sheet and dashboard component
 
-Review the dashboard for high-level insights
+Review insights for performance and consumer trends analysis
 
 📌 Author
 
