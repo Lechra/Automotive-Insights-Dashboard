@@ -67,7 +67,7 @@ Automotive-Insights-Dashboard/
 🌐 Live Dashboard (Tableau Public)
 
 👉 View the published dashboard here:
-https://public.tableau.com/app/profile/lechra.lewis/viz/Automotive_Insights_Dashboard/Dashboard1
+https://public.tableau.com/app/profile/lechra.lewis/viz/Automotive_Insights_DashboardFinal/Dashboard1
 
 🎯 Key Insights
 
